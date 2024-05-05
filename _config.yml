@@ -2,7 +2,6 @@
 title:
 email: "kontakt@raumausstattung-frese.de"
 phone: +49 179 5376813
-whatsapp: 1795376813
 description: > # this means to ignore newlines until "baseurl:"
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "" # the base hostname & protocol for your site
