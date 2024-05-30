@@ -11,3 +11,28 @@
 
 <!-- Custom Theme JavaScript -->
 <script src="js/creative.js"></script>
+
+<!-- _includes/footer.html -->
+<script>
+    window.addEventListener("load", function(){
+      window.cookieconsent.initialise({
+        "palette": {
+          "popup": {
+            "background": "#000"
+          },
+          "button": {
+            "background": "#835582"
+          }
+        },
+        "theme": "classic",
+        "position": "bottom-right",
+        "content": {
+          "message": "Diese Website verwendet Cookies, um sicherzustellen, dass Sie die beste Erfahrung auf unserer Website machen.",
+          "dismiss": "Verstanden!",
+          "link": "Mehr erfahren",
+          "href": "/datenschutz"  <!-- Stellen Sie sicher, dass Sie eine Datenschutzerklärung auf Ihrer Website haben -->
+        }
+      });
+    });
+  </script>
+  
