@@ -1,10 +1,11 @@
 # Site settings
-title:
+title: "Raumausstattung Frese"
 email: "kontakt@raumausstattung-frese.de"
 phone: +49 179 5376813
-description: > # this means to ignore newlines until "baseurl:"
+description: "Eduard Frese - Ihr Experte für Raumdesign und Raumausstattung in Koblenz. Mit über 15 Jahren Erfahrung bieten wir professionelle Maler- und Anstricharbeiten, hochwertige Bodenbelagsarbeiten, kreative Wandgestaltung, präzise Trockenbauarbeiten und exzellente Tapezierarbeiten. Unser engagiertes Team aus qualifizierten Fachleuten verwandelt Ihre Wohn- und Arbeitsräume in individuelle und funktionale Räume. Wir legen großen Wert auf handwerkliche Qualität, maßgeschneiderte Lösungen und Kundenzufriedenheit. Kontaktieren Sie uns für maßgeschneiderte Raumgestaltung in Koblenz und lassen Sie Ihre Wohnträume wahr werden."
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "https://www.raumausstattung-frese.de" # the base hostname & protocol for your site
+
 
 twitter_username:
 github_username:
